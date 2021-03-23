@@ -1,0 +1,3 @@
+graft pp_frontend
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  pp_frontend/jupy *
